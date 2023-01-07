@@ -1,0 +1,27 @@
+
+.purple{
+	background:#C0392B;
+	font-size: 1.875em;
+}
+
+label{
+	font-family:Verdana;
+	color:black;
+	font-size: large;
+	
+}
+
+body{
+	background-color:#F9EBEA;
+	 font-size: 1em;
+}
+
+li{
+	font-family :'Times New Roman', serif;
+	 
+}
+section {
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+}
